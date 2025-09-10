@@ -41,7 +41,8 @@ The Password Strength Checker is a command-line cybersecurity tool designed to e
 - 📝 Audit logging with timestamp
 
 ## OUTPUT  
-<img width="910" height="297" alt="image" src="https://github.com/user-attachments/assets/fddd8c2b-5e69-4ead-b382-11c23caafe18" />
+<img width="911" height="300" alt="image" src="https://github.com/user-attachments/assets/645d7a28-a7cd-411a-a90d-91bfc9ca8373" />
+
 
 
 
